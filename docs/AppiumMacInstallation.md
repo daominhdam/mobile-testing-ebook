@@ -8,7 +8,7 @@ Yêu cầu thiết bị:
 * Cài đặt Commandline Tools.
 * Mở Terminal ( Trong /Applications/Utilities/) và thực hiện lệnh  `$ xcode-select --install`
 
-#### Cài đặt Homebrew
+### Cài đặt Homebrew
 
 [Homebrew](https://docs.brew.sh/Installation) là công cụ quản lý package trên Mac. 
 * Mở terminal và thực hiện lệnh:
@@ -25,7 +25,7 @@ Homebrew/homebrew-core (git revision f0859; last commit 2019-06-26)
 Homebrew/homebrew-cask (git revision 8055f; last commit 2019-06-26)
 ```
 
-#### Cài đặt Carthage
+### Cài đặt Carthage
 * Mở terminal và thực hiện lệnh sau: `$ brew install carthage`
    
 ### Cài đặt JAVA
