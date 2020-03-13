@@ -1,2 +1,20 @@
 # mobile-testing-ebook
 Ngôn ngữ: Tiếng Việt
+
+Hướng dẫn từng bước để cài đặt và xây dựng một dự án tự động hoá testing cho ứng dụng trên nên tảng điện thoại thông minh.
+
+# Mục Lục 
+
+## Giới thiệu
+## Chương 1: Cài đặt môi trường
+## Chương 2: Viết kịch bản test case đơn giản với appium
+## Chương 3: Tìm hiểu về Desired Capbilities 
+## Chương 4: Các phương pháp tìm kiếm vị trí một element trên màn hình mobile
+## Chương 5: Hướng dẫn sử dụng UiAutomatorViewer và Appium Desktop để lấy thông tin element
+## Chương 6: Những mẫu thiết kế (design patter) nên biết trong lĩnh vực Test Automation
+## Chương 7: Làm quen với mô hình Page Object 
+## Chương 8: Làm quen với mô mình Screenplay 
+## Chương 9: Một số thủ thuật 
+
+
+Nội dung quyển sách này sẽ dựa trên việc tập hợp các bài viết trên mạng + kinh nghiệm làm việc cá nhân, blog và sách của các tác giả liên quan. Chúng tôi sẽ update cụ thể sau mỗi bài viết.
