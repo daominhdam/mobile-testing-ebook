@@ -11,8 +11,8 @@ Hướng dẫn từng bước để cài đặt và xây dựng một dự án t
 ## Chương 3: Tìm hiểu về Desired Capbilities 
 ## Chương 4: Các phương pháp tìm kiếm vị trí một element (Locator)
 ## Chương 5: Hướng dẫn lấy thông tin element (Inspector)
-- I. Sử dụng UiAutomatorViewer
-- II. Sử dụng Appium Desktop
+- 5.1. Sử dụng UiAutomatorViewer
+- 5.2. Sử dụng Appium Desktop
 ## Chương 6: Mẫu thiết kế nên biết trong Test Automation (Design Pattern)
 ## Chương 7: Làm quen với mô hình Page Object 
 ## Chương 8: Làm quen với mô mình Screenplay 
