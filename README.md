@@ -7,6 +7,8 @@ Hướng dẫn từng bước để cài đặt và xây dựng một dự án t
 
 ## Giới thiệu
 ## Chương 1: Cài đặt môi trường
+- 1.1 Cài đặt Appium trên MAC
+- 1.2 Cài đặt Appium trên Windows
 ## Chương 2: Viết kịch bản test case đơn giản với appium
 ## Chương 3: Tìm hiểu về Desired Capbilities 
 ## Chương 4: Các phương pháp tìm kiếm vị trí một element (Locator)
