@@ -22,4 +22,4 @@ Hướng dẫn từng bước để cài đặt và xây dựng một dự án t
 - 10.2 ....
 
 
-Nội dung quyển sách này sẽ dựa trên việc tập hợp các bài viết trên mạng + kinh nghiệm làm việc cá nhân, blog và sách của các tác giả liên quan. Chúng tôi sẽ update cụ thể sau mỗi bài viết.
+Nội dung quyển sách này sẽ dựa trên việc tập hợp các bài viết trên mạng + kinh nghiệm làm việc cá nhân, dịch blog và sách của các tác giả liên quan. Chúng tôi sẽ update cụ thể sau mỗi bài viết.
